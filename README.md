@@ -1,6 +1,6 @@
 ### Olá, eu sou o Theo Guerra! 👋
 
-Sou um Desenvolvedor Full Stack focado em resolver problemas reais. Atualmente estou desenvolvendo o **ClubeVoltz**, uma plataforma SaaS para gestão de restaurantes.
+Sou um Desenvolvedor Full Stack focado em resolver problemas reais. Atualmente estou desenvolvendo o **ClubeVoltz**, uma plataforma SaaS.
 
 - 🔭 **Trabalhando em:** Sistema de Gestão (SaaS) com Node.js e Angular
 - 🚀 **Stack Principal:** Node.js, Angular 17+, TypeScript, PostgreSQL
