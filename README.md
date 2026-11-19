@@ -1,18 +1,21 @@
-### Olá, eu sou o Theo Guerra! 👋
+## Olá, eu sou o Theo Guerra! 👋
 
-Sou um Engenheiro de Software focado em resolver problemas reais.
-- 🔭 **Trabalhando em:** Sistema de Gestão (SaaS) com Node.js e Angular
-- 🚀 **Stack Principal:** Node.js, Angular 17+, TypeScript, PostgreSQL
-- 🎓 **Estudando:** C# / .NET e Arquitetura de Software
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/theo-guerra)
+**Engenheiro Full-Stack. Construo produto com IA, do comercial à infraestrutura.**
 
----
+- 🔭 Trabalhando em: produto com IA (React/Node) e a Olimpíada de Vibe Coding (OBVC/IOOVC)
+- 🚀 Stack principal: React, Next.js, Node.js, TypeScript, PostgreSQL/Supabase, AWS, Go
+- 🎓 Estudando: arquitetura de software e IA aplicada (agentes e skills)
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/theo-guerra)
+
 ### 🛠️ Tecnologias e Ferramentas
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
